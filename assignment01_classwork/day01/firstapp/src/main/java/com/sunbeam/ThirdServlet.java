@@ -1,0 +1,68 @@
+package com.sunbeam;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.util.Date;
+
+import javax.servlet.ServletConfig;
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+public class ThirdServlet extends HttpServlet {
+
+	private String color="";
+
+	@Override
+	public void init(ServletConfig config) throws ServletException {
+		// TODO Auto-generated method stub
+		super.init(config);
+		System.out.println("ThirdServlet.init() method called.");
+		color = config.getInitParameter("color");
+	}
+	
+	@Override
+	public void destroy() {
+		// TODO Auto-generated method stub
+		//super.destroy();
+		System.out.println("ThirdServlet.destroy() method called.");
+	}
+	
+	@Override
+	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		//super.doGet(req, resp);
+		System.out.println("ThirdServlet.doGet() method called.");
+		process(req, resp);
+	}
+	
+	@Override
+	protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		//super.doPost(req, resp);
+		System.out.println("ThirdServlet.doPost() called.");
+		process(req, resp);
+	}
+	
+	protected void process(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		
+		resp.setContentType("text/html");
+		
+		PrintWriter out = resp.getWriter();
+		
+		out.println("<html>");
+		out.println("<head>");
+		out.println("<title>Third</title>");
+		out.println("</head>");
+		out.printf("<body bgcolor='%s'>\n", color);
+		out.println("<h1>\nWelcome to the ThirdServlet</h1>");
+		Date now = new Date();
+		out.println(now.toString());
+		out.println("</body>");
+		out.println("</html>");
+		
+
+	}
+
+}

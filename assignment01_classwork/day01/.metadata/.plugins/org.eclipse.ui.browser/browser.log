@@ -1,0 +1,55 @@
+
+Jun 07, 2024 19:20:01.84 NEW SESSION
+Jun 07, 2024 19:20:01.84 [15300:15384:0607/192001.075:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+Jun 07, 2024 19:20:01.84 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jun 07, 2024 19:20:01.84 ERROR: Failed parsing Certificate
+Jun 07, 2024 19:20:01.84 
+Jun 07, 2024 19:20:01.480 [15300:9836:0607/192001.480:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+Jun 07, 2024 19:20:01.480 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jun 07, 2024 19:20:01.481 ERROR: Failed parsing Certificate
+Jun 07, 2024 19:20:01.481 
+Jun 07, 2024 19:20:03.358 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 07, 2024 19:32:31.446 [15300:16896:0607/193231.446:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+Jun 07, 2024 19:32:31.446 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jun 07, 2024 19:32:31.446 ERROR: Failed parsing Certificate
+Jun 07, 2024 19:32:31.446 
+Jun 07, 2024 20:05:01.363 [15300:6284:0607/200501.363:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+Jun 07, 2024 20:05:01.363 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jun 07, 2024 20:05:01.363 ERROR: Failed parsing Certificate
+Jun 07, 2024 20:05:01.363 
+Jun 07, 2024 20:12:09.81 [15300:9180:0607/201209.081:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+Jun 07, 2024 20:12:09.97 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jun 07, 2024 20:12:09.97 ERROR: Failed parsing Certificate
+Jun 07, 2024 20:12:09.97 
+Jun 07, 2024 20:50:01.121 [15300:7576:0607/205001.121:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+Jun 07, 2024 20:50:01.121 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jun 07, 2024 20:50:01.121 ERROR: Failed parsing Certificate
+Jun 07, 2024 20:50:01.121 
+Jun 07, 2024 20:51:02.812 [15300:8352:0607/205102.812:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 07, 2024 20:51:02.812 [15300:8352:0607/205102.812:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 07, 2024 22:37:07.780 [15300:8352:0607/223707.780:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 07, 2024 22:37:09.713 [15300:8352:0607/223709.713:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 07, 2024 22:37:12.188 [15300:8352:0607/223712.188:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 07, 2024 22:37:15.165 [15300:8352:0607/223715.165:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 07, 2024 22:37:56.937 [15300:8352:0607/223756.937:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 07, 2024 22:39:39.654 [15300:8352:0607/223939.638:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 07, 2024 22:39:41.669 [15300:8352:0607/223941.669:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 07, 2024 22:39:48.629 [15300:8352:0607/223948.629:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 07, 2024 22:39:50.167 [15300:8352:0607/223950.167:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 07, 2024 22:40:02.672 [15300:8352:0607/224002.672:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 07, 2024 22:40:04.203 [15300:8352:0607/224004.203:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 07, 2024 22:40:07.176 [15300:8352:0607/224007.176:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 07, 2024 22:40:58.686 [15300:8352:0607/224058.686:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 07, 2024 22:42:27.747 [15300:8352:0607/224227.747:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 07, 2024 22:45:09.628 [15300:8352:0607/224509.628:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+
+Jun 08, 2024 24:24:12.58 NEW SESSION
+Jun 08, 2024 24:24:12.58 [19384:3580:0608/002412.058:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+Jun 08, 2024 24:24:12.58 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jun 08, 2024 24:24:12.58 ERROR: Failed parsing Certificate
+Jun 08, 2024 24:24:12.66 
+Jun 08, 2024 24:24:12.498 [19384:19072:0608/002412.498:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+Jun 08, 2024 24:24:12.498 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jun 08, 2024 24:24:12.498 ERROR: Failed parsing Certificate
+Jun 08, 2024 24:24:12.498 
+Jun 08, 2024 24:24:14.218 Created TensorFlow Lite XNNPACK delegate for CPU.

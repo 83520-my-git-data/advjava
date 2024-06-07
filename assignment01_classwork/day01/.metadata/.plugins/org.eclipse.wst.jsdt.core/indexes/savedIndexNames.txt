@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\rkhem\Desktop\daily-advjava-lab\day01\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2290830016.index
+2414943405.index
+4148324858.index
+1345302021.index
+2721669604.index
+489980755.index

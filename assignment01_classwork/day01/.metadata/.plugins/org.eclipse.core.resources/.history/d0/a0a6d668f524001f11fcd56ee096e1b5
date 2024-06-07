@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Home</title>
+</head>
+<body style="text-align:center">
+<h1>Hello from Index.html file</h1>
+<form>
+	<a href="hello" >Hello from HelloServlet</a>
+	<br/>
+	<a href="cya">Hello from SecondServlet</a>
+	<br/>
+	<a href="greetings">Hello from ThirdServlet</a>
+</form>
+
+</body>
+</html>
